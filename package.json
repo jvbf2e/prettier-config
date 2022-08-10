@@ -1,14 +1,12 @@
 {
   "name": "@jvbf2e/prettier-config",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Prettier config",
-  "main": "index.js",
+  "main": ".prettierrc.js",
   "keywords": [
     "javascript",
     "prettier",
-    "prettier-config",
-    "prettierconfig",
-    "vsilk"
+    "prettier-config"
   ],
   "author": "Jvb",
   "license": "MIT",
@@ -19,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jvbf2e/prettier-config/issues"
   },
-  "homepage": "https://github.com/jvbf2e/prettier-config#readme"
+  "homepage": "https://github.com/jvbf2e/prettier-config#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }

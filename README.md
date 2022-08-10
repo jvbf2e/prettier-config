@@ -1,17 +1,17 @@
-# @vsilk/prettier-config
+# @jvbf2e/prettier-config
 
-Quickly format your JavaScript files with this easy to install and use Prettier configuration. This configuration is used on our ESLint React configuration, take a look at [eslint-config-react](https://github.com/vsilk/eslint-config-react)
+Quickly format your JavaScript files with this easy to install and use Prettier configuration. This configuration is used on our ESLint React configuration, take a look at [eslint-config](https://github.com/jvbf2e/eslint-config)
 
 ## Purpose
 
 [Prettier](https://prettier.io/) is an opinionated code formatter easy to configure and integrate with Code Editors. This configuration aims to quickly install and config JavaScript projects for consistent code style standards.
 
-This package can be used as a stand-alone config or integrated with any linter. If you look to integrate with [ESLint](https://eslint.org/) for React projects take a look at our configuration [eslint-config-react](https://github.com/vsilk/eslint-config-react) using this Prettier config
+This package can be used as a stand-alone config or integrated with any linter. If you look to integrate with [ESLint](https://eslint.org/) for React projects take a look at our configuration [eslint-config](https://github.com/jvbf2e/eslint-config) using this Prettier config
 
 ## How to install
 
 ```
-npm install prettier @vsilk/prettier-config
+npm install prettier @jvbf2e/prettier-config -D
 ```
 
 ## How to use
@@ -19,7 +19,7 @@ npm install prettier @vsilk/prettier-config
 In your `package.json` add:
 
 ```
-"prettier": "@vsilk/prettier-config"
+"prettier": "@jvbf2e/prettier-config"
 ```
 
 Under script objects
