@@ -9,7 +9,7 @@ Quickly format your JavaScript files with this easy to install and use Prettier 
 This package can be used as a stand-alone config or integrated with any linter. If you look to integrate with [ESLint](https://eslint.org/) for React projects take a look at our configuration [eslint-config](https://github.com/jvbf2e/eslint-config) using this Prettier config
 
 
-## config
+## Config
 
 ```javascript
 module.exports = {
