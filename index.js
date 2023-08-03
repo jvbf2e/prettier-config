@@ -14,4 +14,5 @@ module.exports = {
   jsxSingleQuote: false,
   jsxBracketSameLine: false,
   embeddedLanguageFormatting: "auto",
+  endOfLine: "crlf"
 };
