@@ -14,5 +14,9 @@ module.exports = {
   jsxSingleQuote: false,
   jsxBracketSameLine: false,
   embeddedLanguageFormatting: "auto",
-  endOfLine: "crlf"
+  endOfLine: "crlf",
+  plugins: [
+    "prettier-plugin-organize-imports",
+    "prettier-plugin-tailwindcss"
+  ]
 };

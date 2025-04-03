@@ -1,6 +1,6 @@
 {
   "name": "@jvbjs/prettier-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Prettier config",
   "main": "index.js",
   "exports": {
@@ -28,11 +28,12 @@
     "index.js"
   ],
   "scripts": {},
-  "dependencies": {},
   "peerDependencies": {
     "prettier": "^3.5.3"
   },
   "devDependencies": {
-    "prettier": "^3.5.3"
+    "prettier": "^3.5.3",
+    "prettier-plugin-organize-imports": "^4.1.0",
+    "prettier-plugin-tailwindcss": "^0.6.11"
   }
 }
